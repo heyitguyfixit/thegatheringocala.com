@@ -3,3 +3,4 @@ Sitemap: http://www.thegatheringocala.com/sitemap.xml
 User-agent: *
 Disallow: /giving
 Disallow: /neighborhood
+Disallow: /scriptures
