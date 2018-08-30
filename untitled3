@@ -1,0 +1,82 @@
+//site.css
+/* GLOBAL SITE CSS - ADD CSS TO AFFECT THE WHOLE SITE */
+@font-face {
+	font-family: "Moon Flower";
+	src: url(https://cdn.rawgit.com/heyitguyfixit/font/506b65d9/Moon%20Flower/Moon_Flower.eot);
+	src: url(https://cdn.rawgit.com/heyitguyfixit/font/506b65d9/Moon%20Flower/Moon_Flower.ttf) format("truetype"),
+		url(https://cdn.rawgit.com/heyitguyfixit/font/506b65d9/Moon%20Flower/Moon_Flower.woff) format("woff"),
+		url(https://cdn.rawgit.com/heyitguyfixit/font/506b65d9/Moon%20Flower/Moon_Flower.svg) format("svg");
+	unicode-range: U+?????;
+	font-style: normal;
+	font-weight: 400;
+}
+@font-face {
+	font-family: "Antro Vectra";
+	src: url(https://cdn.rawgit.com/heyitguyfixit/font/c7565819/Antro%20Vectra/Antro_Vectra.otf) format("opentype"); /* .otf */
+	unicode-range: U+?????;
+	font-style: normal;
+	font-weight: 400;
+}
+.button-font {
+    font-family:"Moon Flower" !important;
+    font-size: 200% !important;
+    font-weight: bold !important;
+}
+.alt-font {
+    font-family:"Antro Vectra" !important;
+    font-size: 200% !important;
+    font-weight: bolder !important;
+}
+ul.unifiednav__container {
+    font-family: "Moon Flower";
+    font-size: 200%;
+    font-weight: bolder;
+}
+#dm DIV.dmOuter DIV.dmInner {
+	background-attachment: fixed !important;
+}
+.moon-flower-font {
+    font-family:"Moon Flower" !important;
+    font-weight: bolder !important;
+}
+.text-font {
+    font-family:"Moon Flower" !important;
+    text-shadow: 1px 1px 0px white, -1px 1px 0px white, -1px -1px 0px white, 1px -1px 0px white !important;
+    font-weight: bolder !important;
+}
+.b_a_bio, .b_a_bio > img {
+    display: block !important;
+    float: right !important;
+    height: auto !important;
+}
+h4 {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+#dmRoot {
+    height: 100% !important;
+    width: 100%;
+    background-image: url("https://raw.githubusercontent.com/heyitguyfixit/heyitguyfixit.github.io/master/website-bg.png") !important;
+    background-attachment: fixed !important;
+    background-repeat: no-repeat !important;
+    background-position: 50% 100% !important;
+    background-size: cover !important;
+    background-color: tan !important;
+}
+#dm {
+    top: 0 !important;
+    bottom: 0 !important;
+    right: 0 !important;
+    left: 0 !important;
+    background: rgba(255,255,255,0.52) !important;
+    position: absolute !important;
+}
+dmHeaderContainer fHeader d-header-wrapper {
+    background: rgba(255,255,255,0.52) !important;
+}
+.dmInner {
+    background: none !important;
+}
+.site_content {
+    margin-top: 70px !important;
+}
