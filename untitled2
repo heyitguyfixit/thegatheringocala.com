@@ -1,0 +1,85 @@
+<!-- *** ADD OR EDIT HTML INSIDE OF THE dmRespCol DIVS, SEE DOCUMENTATION FOR GUIDELINES *** -->
+<div class="dmNewParagraph" data-dmtmpl="true" id="1903732298" data-uialign="center" style="transition: opacity 1s ease-in-out 0s;" no_space_e="true">
+ <h3 class="sirolli_h3">
+  Brandon, Angela, Christian and Micah Sirolli
+ </h3>
+ <div class="bio-block">
+  <img class="align-center sirolli_img" src="https://raw.githubusercontent.com/heyitguyfixit/heyitguyfixit.github.io/53332d9f/sirolli-2.jpg" id="1929961628" data-dm-image-path="https://raw.githubusercontent.com/heyitguyfixit/heyitguyfixit.github.io/53332d9f/sirolli-2.jpg" no_space_b="true" no_space_e="true"/>
+  <p no_space_b="true">
+   Brandon and Angela have been married for 17 years and have 2 awesome sons, Christian and Micah. This family has been involved in the ministry of the Gospel for almost 10 years, serving in various pastoral roles such as youth and children&rsquo;s pastors, youth director, associate pastor, men&rsquo;s pastor (just Brandon). They also launched a ministry to the skateboarders of Marion County called Life Point, which established a skate spot, ministering to over 300 skaters, BMXers and scooter riders over the course of the ministry&rsquo;s 3 years. Now, they look forward to pulling all these experiences together to launch The Gathering, partnering with other ministries in Ocala to see this place transformed by the love of God through Jesus Christ, by the mighty power of Holy Spirit!
+  </p>
+ </div>
+ 
+</div>
+<!-- *** ADD OR EDIT HTML INSIDE OF THE dmRespCol DIVS, SEE DOCUMENTATION FOR GUIDELINES *** -->
+<div class="dmNewParagraph" data-dmtmpl="true" id="1440357347" data-uialign="center" style="transition: opacity 1s ease-in-out 0s;" no_space_e="true">
+ <h3 class="desierra_h3">
+  Jorge, Lizzy and Hannah De&rsquo;Sierra
+ </h3>
+ <div class="bio-block">
+  <img class="align-center desierra_img" src="https://raw.githubusercontent.com/heyitguyfixit/heyitguyfixit.github.io/53332d9f/desierra-2.jpg" id="1208216719" data-dm-image-path="https://raw.githubusercontent.com/heyitguyfixit/heyitguyfixit.github.io/53332d9f/desierra-2.jpg" no_space_b="true" no_space_e="true"/>
+  <p>
+   Jorge and Lizzy met and married in Marion County, FL, and have a 10 year old daughter, Hannah. Jorge owns an automation company and Lizzy works in finance. Together, they stand on God&rsquo;s promises found in Jeremiah 29. &ldquo;For I know the plans I have for you. Plans for your good and not disaster, to give you a hope and a future. When you pray, I will listen. If you look for me wholeheartedly, you will find me.&rdquo; The De&rsquo;Sierra&rsquo;s are founding members; part of the integral core group of The Gathering. Without their prayer, support and partnership, this gathering would not be what it is today. Lizzy is our administrative backbone. Jorge is a behind the scenes kind of guy working with Christian Sirolli on all things tech for the Gathering.
+  </p>
+ </div>
+</div>
+
+<!--pastors and staff.css-->
+<style>
+*.sirolli_img, *.desierra_img
+{
+	box-shadow:rgba(0, 0, 0, 0.25) 0px 3px 11px 0px !important;
+	-moz-box-shadow:rgba(0, 0, 0, 0.25) 0px 3px 11px 0px !important;
+	-webkit-box-shadow:rgba(0, 0, 0, 0.25) 0px 3px 11px 0px !important;
+}
+@-moz-documenturl-prefix(){ *.sirolli_img,*.desierra_img{ overflow: hidden!important; } } *#dm *.dmBody div.u_1869820833
+{
+	background-color:rgba(0, 0, 0, 0) !important;
+}
+</style>
+<!--pastors and staff-desktop-tablet.css-->
+<style>
+.desierra_img {
+    float: right !important;
+    order: 1;
+}
+.sirolli_img {
+    float: left !important;
+}
+.bio-block {
+    display: flex !important;
+    align-items: center !important;
+	height:348px !important;
+}
+.bio-block * {
+    margin: 0 auto;
+    vertical-align: middle !important;
+}
+*.sirolli_img, *.desierra_img
+{
+    width:400px !important;
+	padding-left:0px !important;
+	padding-right:0px !important;
+	margin-left:10px !important;
+	margin-right:10px !important;
+	border-style:solid !important;
+	border-width:0px !important;
+	border-color:rgba(255, 255, 255, 1) !important;
+    
+}
+@-moz-document url-prefix() {
+    *.sirolli_img, *.desierra_img
+    {
+        width:200em !important;
+    }
+}
+.sirolli_h3, .desierra_h3 {
+    line-height: 0px !important;
+}
+</style>
+<!--pastors and staff-mobile-->
+<style>
+*.sirolli_img, *.desierra_img {
+    width: 100% !important;
+}
+</style>
