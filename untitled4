@@ -1,0 +1,9 @@
+Redirects:
+-----------------------
+Old URL	|	Destination Page
+/BingSiteAuth.xml	|	https://cdn.rawgit.com/heyitguyfixit/thegatheringocala.com/ab61a8c5/BingSiteAuth.xml
+/neighborhood	|	Home
+/yandex_d33800ddecbf3de2.html	|	https://cdn.rawgit.com/heyitguyfixit/thegatheringocala.com/1b81e93d/yandex_d33800ddecbf3de2.html
+/robots.txt	|	https://cdn.rawgit.com/heyitguyfixit/thegatheringocala.com/6e15307b/robots.txt
+/scriptures	|	Home
+/sitemap.xml	|	https://cdn.rawgit.com/heyitguyfixit/thegatheringocala.com/master/sitemap.xml
