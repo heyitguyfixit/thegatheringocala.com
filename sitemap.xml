@@ -1,66 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xhtml="http://www.w3.org/1999/xhtml"
-      xsi:schemaLocation="
-            http://www.sitemaps.org/schemas/sitemap/0.9
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with PRO Sitemap Service https://pro-sitemaps.com -->
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-  <url>
-       <loc>https://www.thegatheringocala.com/</loc>
-       <lastmod>2018-08-13T02:22:27+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>1.0000</priority>
-  </url>
-  <url>
-       <loc>https://www.thegatheringocala.com/about</loc>
-       <lastmod>2018-08-13T02:22:27+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://www.thegatheringocala.com/contact</loc>
-       <lastmod>2018-08-13T02:22:27+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://www.thegatheringocala.com/projects</loc>
-       <lastmod>2018-08-13T02:22:27+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://www.thegatheringocala.com/giving</loc>
-       <lastmod>2018-08-13T02:22:27+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://www.thegatheringocala.com/life-points</loc>
-       <lastmod>2018-08-13T02:22:27+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://www.thegatheringocala.com/pastors-and-staff</loc>
-       <lastmod>2018-08-13T02:22:27+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://www.thegatheringocala.com/videos</loc>
-       <lastmod>2018-08-13T02:22:27+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://www.thegatheringocala.com/beliefs</loc>
-       <lastmod>2018-08-13T02:22:27+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
+
+<url>
+  <loc>https://www.thegatheringocala.com/</loc>
+  <lastmod>2018-09-07T22:11:48+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.thegatheringocala.com/about</loc>
+  <lastmod>2018-09-07T22:11:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.thegatheringocala.com/contact</loc>
+  <lastmod>2018-09-07T22:11:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.thegatheringocala.com/projects</loc>
+  <lastmod>2018-09-07T22:11:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.thegatheringocala.com/life-points</loc>
+  <lastmod>2018-09-07T22:11:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.thegatheringocala.com/pastors-and-staff</loc>
+  <lastmod>2018-09-07T22:11:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.thegatheringocala.com/videos</loc>
+  <lastmod>2018-09-07T22:11:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.thegatheringocala.com/beliefs</loc>
+  <lastmod>2018-09-07T22:11:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.thegatheringocala.com/give</loc>
+  <lastmod>2018-09-07T22:11:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.thegatheringocala.com/mail</loc>
+  <lastmod>2018-09-07T22:11:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.thegatheringocala.com/in-kind</loc>
+  <lastmod>2018-09-07T22:11:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
